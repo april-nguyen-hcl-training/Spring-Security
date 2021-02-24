@@ -12,7 +12,7 @@ docker-compose --file docker/compose.yaml up --build -d
 Run in IDE by importing /secure-authenticator 
 or by using Maven
 ```bash
-cd authentication/
+cd secure-authenticator/
 mvn spring-boot:run
 ```
 
